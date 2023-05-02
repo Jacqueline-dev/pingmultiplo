@@ -1,8 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="b5611bb9-53af-4b26-8509-94b66fc83698" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/host.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/host.txt" beforeDir="false" afterPath="$PROJECT_DIR$/host.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pingmultiplo.py" beforeDir="false" afterPath="$PROJECT_DIR$/pingmultiplo.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,12 +79,44 @@
       <option name="project" value="LOCAL" />
       <updated>1683028602960</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="arquivo de texto com endereços para testar">
+      <created>1683028923116</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1683028923116</updated>
+    </task>
+    <task id="LOCAL-00003" summary="importando biblioteca OS">
+      <created>1683028970394</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683028970394</updated>
+    </task>
+    <task id="LOCAL-00004" summary="como acessar o arquivo host">
+      <created>1683029053081</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1683029053081</updated>
+    </task>
+    <task id="LOCAL-00005" summary="corrigindo erro de digitação">
+      <created>1683029150751</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1683029150751</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="criação de pastas" />
-    <option name="LAST_COMMIT_MESSAGE" value="criação de pastas" />
+    <MESSAGE value="arquivo de texto com endereços para testar" />
+    <MESSAGE value="importando biblioteca OS" />
+    <MESSAGE value="como acessar o arquivo host" />
+    <MESSAGE value="corrigindo erro de digitação" />
+    <option name="LAST_COMMIT_MESSAGE" value="corrigindo erro de digitação" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
