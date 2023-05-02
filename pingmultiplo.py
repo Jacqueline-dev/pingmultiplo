@@ -1,6 +1,6 @@
 import os
 
-with open('hosts.text') as file:
+with open('host.txt') as file:
     dump = file.read()
 
     print(dump)
